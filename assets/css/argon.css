@@ -16951,13 +16951,6 @@ textarea[resize='horizontal']
     color: #8898aa;
 }
 
-.section
-{
-    position: relative;
-
-    padding-top: 4rem;
-    padding-bottom: 4rem;
-}
 
 .section-xl
 {
@@ -16965,11 +16958,7 @@ textarea[resize='horizontal']
     padding-bottom: 8rem;
 }
 
-.section-lg
-{
-    padding-top: 6rem;
-    padding-bottom: 6rem;
-}
+
 
 .section-sm
 {
@@ -17263,7 +17252,7 @@ textarea[resize='horizontal']
 }
 .section-shaped .shape-style-1.shape-default
 {
-    background: linear-gradient(150deg, #7795f8 15%, #6772e5 70%, #555abf 94%);
+    background: linear-gradient(150deg, #3482b9 15%, #6772e5 70%, #555abf 94%);
 }
 .section-shaped .shape-style-1.shape-light
 {
