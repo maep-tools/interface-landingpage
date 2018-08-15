@@ -1,4 +1,4 @@
-# Landing Maep
+# MAEP LANDING PAGE
 
 This is the code of the landing page of MAEP software.
 
