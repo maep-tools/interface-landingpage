@@ -9,6 +9,8 @@ This is the code of the landing page of MAEP software.
 
 # Examples
 
+You can see the content here.
+
 https://maep-software.github.io/landing-maep
 
 # Installation
