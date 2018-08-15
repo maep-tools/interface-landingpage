@@ -1,6 +1,6 @@
 # Landing Maep
 
-This is the code of the landing page of MAEP.
+This is the code of the landing page of MAEP software.
 
 ## Table of contents
 
