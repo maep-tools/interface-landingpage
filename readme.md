@@ -3,7 +3,7 @@
 </p>
 
 ### Landing Page
-This is the code of the landing page of MAEP software.
+MAEP Tools project page.
 
 ### https://maep-tools.github.io/landing-page
 
