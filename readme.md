@@ -1,11 +1,11 @@
 <p align="center">
-    <img width="230" height="150" src="https://maep-tools.github.io/Interface-LandingPage/assets/img/theme/Vector.svg">
+    <img width="230" height="150" src="https://maep-tools.github.io/interface-landingpage/assets/img/theme/Vector.svg">
 </p>
 
 ### Landing Page
 MAEP Tools project page.
 
-### https://maep-tools.github.io/Interface-LandingPage
+### https://maep-tools.github.io/interface-landingpage
 
 
 
