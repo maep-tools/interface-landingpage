@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="230" height="150" src="https://maep-tools.github.io/interface-landingpage/assets/img/theme/Vector.svg">
+    <img width="230" height="150" src="https://maep-tools.github.io/interface-landingpage/assets/img/theme/Recurso 16@2x-8.png">
 </p>
 
 ### Landing Page
